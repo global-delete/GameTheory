@@ -1,0 +1,32 @@
+c:\users\1\documents\visual studio 2015\Projects\GameTheory\GameTheory\bin\Debug\GameTheory.exe.config
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\GameTheory\GameTheory\bin\Debug\GameTheory.exe.config
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\GameTheory\GameTheory\bin\Debug\GameTheory.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\GameTheory\GameTheory\bin\Debug\GameTheory.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\GameTheory\GameTheory\obj\Debug\GameTheory.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\GameTheory\GameTheory\obj\Debug\GameTheory.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\GameTheory\GameTheory\obj\Debug\GameTheory.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\новое\GameTheory - копия (2)\GameTheory\bin\Debug\GameTheory.exe.config
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\новое\GameTheory - копия (2)\GameTheory\obj\Debug\GameTheory.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\новое\GameTheory - копия (2)\GameTheory\obj\Debug\GameTheory.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\новое\GameTheory - копия (2)\GameTheory\bin\Debug\GameTheory.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\новое\GameTheory - копия (2)\GameTheory\bin\Debug\GameTheory.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\новое\GameTheory - копия (2)\GameTheory\obj\Debug\GameTheory.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\новое\GameTheory\GameTheory\bin\Debug\GameTheory.exe.config
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\новое\GameTheory\GameTheory\obj\Debug\GameTheory.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\новое\GameTheory\GameTheory\obj\Debug\GameTheory.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\новое\GameTheory\GameTheory\bin\Debug\GameTheory.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\новое\GameTheory\GameTheory\bin\Debug\GameTheory.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\новое\GameTheory\GameTheory\obj\Debug\GameTheory.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\новое\Гарифуллин С.И. гр. 4316_2018-2019 ИОиМО\GameTheory\GameTheory\bin\Debug\GameTheory.exe.config
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\новое\Гарифуллин С.И. гр. 4316_2018-2019 ИОиМО\GameTheory\GameTheory\obj\Debug\GameTheory.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\новое\Гарифуллин С.И. гр. 4316_2018-2019 ИОиМО\GameTheory\GameTheory\obj\Debug\GameTheory.pdb
+D:\Документы\Каи\Пройденные курсы\ИОиМО\Гарифуллин С.И. гр. 4316_2018-2019 ИОиМО\GameTheory\GameTheory\bin\Debug\GameTheory.exe.config
+D:\Документы\Каи\Пройденные курсы\ИОиМО\Гарифуллин С.И. гр. 4316_2018-2019 ИОиМО\GameTheory\GameTheory\obj\Debug\GameTheory.exe
+D:\Документы\Каи\Пройденные курсы\ИОиМО\Гарифуллин С.И. гр. 4316_2018-2019 ИОиМО\GameTheory\GameTheory\obj\Debug\GameTheory.pdb
+C:\Users\pipli\Desktop\Петр 2020\GameTheory\GameTheory\bin\Debug\GameTheory.exe.config
+C:\Users\pipli\Desktop\Петр 2020\GameTheory\GameTheory\bin\Debug\GameTheory.exe
+C:\Users\pipli\Desktop\Петр 2020\GameTheory\GameTheory\bin\Debug\GameTheory.pdb
+C:\Users\pipli\Desktop\Петр 2020\GameTheory\GameTheory\obj\Debug\GameTheory.csprojAssemblyReference.cache
+C:\Users\pipli\Desktop\Петр 2020\GameTheory\GameTheory\obj\Debug\GameTheory.csproj.CoreCompileInputs.cache
+C:\Users\pipli\Desktop\Петр 2020\GameTheory\GameTheory\obj\Debug\GameTheory.exe
+C:\Users\pipli\Desktop\Петр 2020\GameTheory\GameTheory\obj\Debug\GameTheory.pdb
